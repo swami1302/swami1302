@@ -26,3 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/swami1302"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swami1302" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swami1302&show_icons=true&locale=en&layout=compact" alt="swami1302" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swami1302&theme=dark&hide_border=true)](https://git.io/streak-stats)
