@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter,Tensorflow**
 
-- 💬 Ask me about **Python,Basis of Blender,HTML,css**
+- 💬 Ask me about **Python,Basis of Blender,HTML,CSS**
 
 - 📫 How to reach me **swamii1413@gmail.com**
 
