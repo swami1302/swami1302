@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swami</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate DUDE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swami1302&label=Profile%20views&color=0e75b6&style=flat" alt="swami1302" /> </p>
 
-- 🔭 I’m currently working on **App Development,Machine Learning**
+- 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **Flutter,Tensorflow**
+- 🌱 I’m currently learning **React-JS**
 
-- 💬 Ask me about **Python,Basis of Blender,HTML,css**
+- 💬 Ask me about **Python,Blender,JS**
 
 - 📫 How to reach me **swamii1413@gmail.com**
 
