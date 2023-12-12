@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End Development<br>🌱 I’m currently learning React.JS and Redux<br>💬 Ask me about Graphic Designing and Programming<br>⚡ Fun fact I think I am CURIOUS
+🔭 I’m currently working on **Front-End Development**<br>🌱 I’m currently learning **React.JS and Redux**<br>💬 Ask me about **Graphic Designing and Programming**<br>⚡ Fun fact I think I am **CURIOUS**
 
 
 ## 🌐 Socials:
